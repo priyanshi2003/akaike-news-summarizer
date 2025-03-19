@@ -106,9 +106,10 @@ requests
 ## ✍️ Conclusion
 This project demonstrates the power of integrating NLP, sentiment analytics, and TTS in a news-based application. It’s scalable and can be enhanced further with REST APIs, databases, or multi-language support.
 
-Feel free to fork, enhance, and contribute to the project!
+
 
 ---
 
-📧 For queries, contact: your-email@example.com
+📧 For queries, contact: priyanshi24b@gim.ac.in
+
 
