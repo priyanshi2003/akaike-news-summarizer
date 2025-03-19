@@ -1,0 +1,8 @@
+streamlit
+requests
+textblob
+gtts
+googletrans
+matplotlib
+wordcloud
+scikit-learn
